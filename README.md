@@ -1,4 +1,8 @@
 # AlgoRhythm
+
+## Network Link : 
+http://10.11.13.85:8501
+
 ## How To Run 
 - Clone my repository.
 - Python version 3.10.10.
