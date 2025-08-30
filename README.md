@@ -24,7 +24,8 @@
 
 -Device-light design, optimized for rural, low-tech environments.
 
-
+## Video
+https://www.youtube.com/watch?v=EMubz1PBalU
 
 ## Screenshots
   #### User side
