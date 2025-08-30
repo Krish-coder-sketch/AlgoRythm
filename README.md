@@ -9,7 +9,7 @@ http://10.11.13.85:8501
 - Open Terminal in working directory.
 - Run following command.
   ```
-  pip install -r requirement.txt
+  pip install -r requirements.txt
   ```
 - `demo.py` is the main Python file of Streamlit Web-Application. 
 - To run app, write following command in Terminal.
