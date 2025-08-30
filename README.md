@@ -1,6 +1,7 @@
 # AlgoRhythm
 ## How To Run 
 - Clone my repository.
+- Python version 3.10.10.
 - Open Terminal in working directory.
 - Run following command.
   ```
